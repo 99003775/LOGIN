@@ -1,0 +1,11 @@
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.csprojAssemblyReference.cache
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Users\1630113\source\repos\Windows\bin\Debug\Windows.exe.config
+C:\Users\1630113\source\repos\Windows\bin\Debug\Windows.exe
+C:\Users\1630113\source\repos\Windows\bin\Debug\Windows.pdb
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.exe
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.pdb
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.ORG1.resources
+C:\Users\1630113\source\repos\Windows\obj\Debug\Windows.login.resources
